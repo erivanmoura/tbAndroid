@@ -1,0 +1,10 @@
+<resources>
+<string name="app_name">Países por Região</string>
+<string name="limpar">Limpar</string>
+<string name="africa">Africa</string>
+<string name="americas">Américas</string>
+<string name="asis">Asia</string>
+<string name="europe">Europe</string>
+<string name="oceania">Oceania</string>
+<string name="paises_a_visitar">Países a visitar</string>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:orderInCategory="2"
+        android:id="@+id/africa"
+        android:title="@string/africa" />
+    <item
+        android:orderInCategory="3"
+        android:id="@+id/americas"
+        android:title="@string/americas"
+        />
+    <item
+        android:orderInCategory="4"
+        android:id="@+id/asia"
+        android:title="@string/asis" />
+    <item
+        android:orderInCategory="5"
+        android:id="@+id/europe"
+        android:title="@string/europe" />
+    <item
+        android:orderInCategory="6"
+        android:id="@+id/oceania"
+        android:title="@string/oceania" />
+    <item
+        android:orderInCategory="7"
+        android:id="@+id/paises_a_visitar"
+        android:title="@string/paises_a_visitar"
+        android:icon="@drawable/ic_fav_on_24dp"
+    />
+    <item
+        android:orderInCategory="8"
+        android:id="@+id/menu_clear"
+        android:title="@string/limpar" />
+</menu>
